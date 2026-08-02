@@ -1,0 +1,4 @@
+# Validator-Engine-Pro (v0.1.0) - Core Dependency Matrix
+# Native standard library architecture requires zero external network dependencies.
+# Explicitly pinned asynchronous event loops used for parallel stream benchmark testing.
+asyncio>=3.4.3
